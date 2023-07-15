@@ -64,6 +64,11 @@
      <td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
     </td>
+
+  <td align='center'>
+        <img src="https://www.linkpicture.com/q/CHAT-GPT-LOGO.webp">
+    </td>
+    
 </tr>
  
 
